@@ -1,0 +1,132 @@
+.header{
+    position: relative;
+    margin:0;
+
+}
+.header-logo{
+    float: initial;
+    margin:10px;
+}
+body{
+    background-color:gray;
+    margin: 0px;
+
+}
+#title{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#title2 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#title3{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+.blank{
+    margin-bottom: 25em;
+}
+.blank-match{
+    margin-bottom: 8em;
+}
+.blank-match2{
+    margin-bottom: 30em;
+}
+.nav{
+    font-style: oblique;
+    margin:100px;
+    color:#ffffffb5;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    font-size: 16px;
+    padding: 10px;
+    list-style:none;
+    display: flex;
+    justify-content:space-around;
+}
+.img
+  {
+  color: white;
+  margin:25px;
+  border:1px solid gray;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+.img-mvp
+  {
+  color: white;
+  margin:100px;
+  border:1px solid gray;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+.desc
+  {
+  background-color: blueviolet;
+  text-align:center;
+  font-weight:normal;
+  width:192px;
+  font-size:12px;
+  margin:10px 5px 10px 5px;
+  }
+.East
+{
+      color:black;
+      text-justify: auto;
+      text-align: center;
+}
+.West
+{
+      color:black;
+      text-justify: auto;
+      text-align: center;
+}
+.Sporter
+{
+    color:black;
+    text-justify: auto;
+    text-align: center;
+
+}
+.picture
+{
+    margin:none;
+    border: 10px;
+    float:left;
+    text-align:left;
+}
+.introduce{
+    color:black;
+    text-justify: auto;
+    text-align:left;
+}
+#style{
+    color:black;
+    position: relative;
+    box-sizing: border-box;
+    height: 42px;
+    line-height:2.36rem;
+    text-align: center;
+    background-color:gray;
+}
+.img-match
+  {
+  color: white;
+  margin-left:250px;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
