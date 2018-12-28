@@ -9,7 +9,7 @@
          "content2":"中部赛区：底特律活塞队、印第安纳步行者队、克里夫兰骑士队、密尔沃基雄鹿队、芝加哥公牛队",
                 
          "content3":"东南部赛区：迈阿密热火队、奥兰多魔术队、华盛顿奇才队、亚特兰大老鹰队、夏洛特黄蜂队",   
-         "imageurl":"../images/contend-east.jpg"
+         "imageurl":"./images/contend-east.jpg"
     },
     {
         "name": "西部联盟",
@@ -18,7 +18,7 @@
         "content2":  "太平洋赛区：萨克拉门托国王队、洛杉矶湖人队、菲尼克斯太阳队、金州勇士队、洛杉矶快船队",  
                          
         "content3": "西南赛区：圣安东尼奥马刺队、休斯敦火箭队、达拉斯独行侠队、孟菲斯灰熊队、新奥尔良鹈鹕队",   
-        "imageurl":"../images/contend-west.jpg"
+        "imageurl":"./images/contend-west.jpg"
     }
     ]
 }   
